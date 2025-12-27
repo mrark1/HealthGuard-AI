@@ -1,0 +1,8 @@
+{
+  "name": "HealthGuard AI",
+  "description": "A multilingual AI-driven public health chatbot designed to improve health awareness, symptom checking, and disease outbreak alerts for rural and semi-urban communities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
